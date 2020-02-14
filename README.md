@@ -9,6 +9,7 @@ Two PowerPoint Presentations:
  * EDA.pptx - Presentation on exploratory data analysis
  * CapstonePresentation.pptx - Final presentation of the project
  
-Two written reports:
+Three written reports:
+ * Inferential Statistics.pdf - Report on a statistical analysis of the data
  * Capstone 1 Milestone Report.pdf - Milestone report
  * Capstone Final Report.pdf - Final report
